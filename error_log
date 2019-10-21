@@ -1,0 +1,152 @@
+[21-Oct-2019 19:17:30 Europe/London] PHP Parse error:  syntax error, unexpected ')' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 82
+[21-Oct-2019 19:25:09 Europe/London] PHP Parse error:  syntax error, unexpected ')' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:25:14 Europe/London] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:25:14 Europe/London] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:25:14 Europe/London] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:25:37 Europe/London] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:25:37 Europe/London] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:25:38 Europe/London] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:25:41 Europe/London] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:25:56 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:26:27 Europe/London] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:30:00 Europe/London] PHP Parse error:  syntax error, unexpected '418' (T_LNUMBER) in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 23
+[21-Oct-2019 19:30:05 Europe/London] PHP Parse error:  syntax error, unexpected '$card_height' (T_VARIABLE) in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 23
+[21-Oct-2019 19:30:05 Europe/London] PHP Parse error:  syntax error, unexpected '$card_height' (T_VARIABLE) in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 23
+[21-Oct-2019 19:30:41 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 30 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:45
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(30): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 45
+[21-Oct-2019 19:30:42 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 30 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:45
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(30): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 45
+[21-Oct-2019 19:30:52 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 30 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:45
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(30): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 45
+[21-Oct-2019 19:30:53 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 30 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:45
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(30): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 45
+[21-Oct-2019 19:30:53 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 30 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:45
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(30): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 45
+[21-Oct-2019 19:31:02 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 30 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:45
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(30): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 45
+[21-Oct-2019 19:31:17 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 30 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:45
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(30): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 45
+[21-Oct-2019 19:31:17 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 30 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:45
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(30): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 45
+[21-Oct-2019 19:31:17 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 30 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:45
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(30): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 45
+[21-Oct-2019 19:31:18 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 30 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:45
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(30): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 45
+[21-Oct-2019 19:31:45 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:31:46 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:31:46 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:31:46 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:31:47 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:31:47 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:31:59 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:32:00 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:32:00 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:32:00 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:32:13 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:32:14 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:32:14 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 32 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:47
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(32): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 47
+[21-Oct-2019 19:32:39 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 31 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:46
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(31): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 46
+[21-Oct-2019 19:32:40 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 31 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:46
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(31): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 46
+[21-Oct-2019 19:32:50 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 31 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:46
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(31): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 46
+[21-Oct-2019 19:32:51 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function text_to_image(), 3 passed in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 31 and at least 4 expected in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php:46
+Stack trace:
+#0 /home/webwides2/socialimage.server2.webwide.io/twitter-card.php(31): text_to_image('Using PHP GD to...', 'Has anyone here...', 800)
+#1 {main}
+  thrown in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 46
+[21-Oct-2019 19:40:27 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:40:28 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
+[21-Oct-2019 19:40:35 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/webwides2/socialimage.server2.webwide.io/twitter-card.php on line 53
